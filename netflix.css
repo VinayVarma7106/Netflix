@@ -8,8 +8,6 @@
     background-image: url("netflix-background.jpg");
     background-size: cover;
     width: 100%;
-    overflow:hidden;
-
 }
 .border{
     height: 20px;
